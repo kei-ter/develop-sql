@@ -1,4 +1,4 @@
-# Develpt-SQL
+# Develop-SQL
 
 ## やりたいこと
 * SQLでコードジェネレートする
@@ -9,3 +9,4 @@
   [https://se-log.blogspot.com/2020/04/mysql-definition-markdown.html]
 
 
+* 仕様書はMarkdownにしたい
